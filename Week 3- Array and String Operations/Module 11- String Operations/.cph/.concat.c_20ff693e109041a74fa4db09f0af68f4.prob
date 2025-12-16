@@ -1,0 +1,1 @@
+{"name":"Local: concat","url":"e:\\My Codes\\Phitron\\Introduction To Programming\\Module 11\\concat.c","tests":[{"id":1761126381213,"input":"cat bat","output":"catbat bat"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Codes\\Phitron\\Introduction To Programming\\Module 11\\concat.c","group":"local","local":true}

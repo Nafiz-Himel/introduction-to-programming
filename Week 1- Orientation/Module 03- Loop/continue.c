@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+    for( int i=1; i<=10; i++)
+    {
+        if(i==5)
+        {
+            continue;
+        }
+        else{
+        printf("%d-",i);
+        printf("Hello\n");
+        }
+    }
+}

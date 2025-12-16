@@ -1,0 +1,1 @@
+{"name":"Local: string_copy","url":"e:\\My Codes\\Phitron\\Introduction To Programming\\Module 11\\string_copy.c","tests":[{"id":1761124012660,"input":"orange apple","output":"apple apple"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Codes\\Phitron\\Introduction To Programming\\Module 11\\string_copy.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: swap","url":"e:\\My Codes\\Phitron\\Introduction To Programming\\Module 09\\swap.c","tests":[{"id":1760883870985,"input":"10 20","output":"A = 20\nB = 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\My Codes\\Phitron\\Introduction To Programming\\Module 09\\swap.c","group":"local","local":true}
