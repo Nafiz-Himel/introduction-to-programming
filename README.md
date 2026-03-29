@@ -1,6 +1,6 @@
 # Introduction to Programming
 
-This project and the “Introduction to Programming” folder belong to my learning path as part of the first semester of the “CSE Fundamentals with Phitron” course, where I learn programming in C and problem‑solving basics.
+This project and the “Introduction to Programming” folder belong to my learning path where I learn programming in C and problem‑solving basics.
 
 ## 📚 Topics Covered
 
@@ -25,6 +25,4 @@ This repo helps you (and me) understand basic programming building blocks such a
 - Recursion  
 
 These topics form the foundation for writing programs, solving problems, and understanding more advanced CS concepts.
-
-## 📂 Repository Structure
 
